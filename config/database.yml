@@ -6,7 +6,7 @@
 #
 development:
   adapter: oracle_enhanced
-  database: xe
+  database: jeos
   username: opac
   password: opac
   
